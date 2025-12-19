@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MoodCook - Your AI Kitchen Assistant",
+  "description": "A smart lunch recommendation app that suggests recipes based on your mood, cooking time, and personal dish library, with fallback to web search using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
